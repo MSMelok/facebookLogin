@@ -1,0 +1,11 @@
+{
+    "name": "facebookLogin",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "dev": "vercel dev"
+    },
+    "dependencies": {
+        "mongodb": "^4.0.0"
+    }
+}
